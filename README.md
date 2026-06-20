@@ -1,4 +1,4 @@
-Senior Data Scientist with 16 years of experience. I help companies understand
+Senior Data Scientist with 16 years of experience at Google. I help companies understand
 their impact by building the right metrics and visualizing them the right way.
 
 A few things I've done:
