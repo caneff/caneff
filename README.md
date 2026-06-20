@@ -1,5 +1,3 @@
-### Hi, I'm Chris Neffshade 👋
-
 Senior Data Scientist with 16 years of experience. I help companies understand
 their impact by building the right metrics and visualizing them the right way.
 
@@ -12,7 +10,6 @@ A few things I've done:
 
 **What I'm building lately**
 - 🎓 [visual-teach](https://github.com/caneff/visual-teach) — rich interactive teaching lessons from a structured block format
-- 🧹 [data-cleaning-agent](https://github.com/caneff/data-cleaning-agent) — LLM cleaning plans + a fixed pandas pipeline with a Streamlit UI
 - 💬 [talk-to-your-data-slackbot](https://github.com/caneff/talk-to-your-data-slackbot) — ask questions about your data right from Slack
 
 📫 [LinkedIn](https://www.linkedin.com/in/cneffshade/)
