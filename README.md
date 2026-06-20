@@ -1,4 +1,4 @@
-### Hi, I'm Chris 👋  <!-- TODO: confirm your name -->
+### Hi, I'm Chris Neffshade 👋
 
 I build tools at the intersection of **data and LLMs** — agents that clean,
 analyze, and explain data, plus interactive material for teaching people how to
